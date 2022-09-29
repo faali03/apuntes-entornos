@@ -1,0 +1,37 @@
+1-
+Se trata de un método visual de gestión de proyectos que permite a los equipos visualizar sus flujos de trabajo y la carga de trabajo.
+En un tablero Kanban, el trabajo se muestra en un proyecto en forma de tablero organizado por columnas. 
+Tradicionalmente, cada columna representa una etapa del trabajo. 
+Kanban admite cambios siempre que estos sean posibles mientras que scrum se resiste.
+2-
+Scrum se centra en iteraciones más pequeñas y de longitud fija. Una vez finalizado el periodo para un sprint, se determinan las historias
+ o las entradas de backlog del producto que se pueden implementar durante este ciclo de sprint.
+3-
+El product backlog en Scrum es una lista de características que han sido priorizadas, y contiene descripciones breves sobre todo lo que 
+se desea para el producto que se va a desarrollar
+El sprint backlog es básicamente una lista de tareas identificadas por el scrum team
+4-
+El jefe de proyecto es el responsable de que se cumplan las reglas de Scrum, asegurando que se entiende en la organización y que se trabaja
+ conforme a ellas.
+El cliente es el propietario de la planificación del proyecto
+El equipo de desarrollo se encargará de crear un incremento terminado a partir de los elementos del Product Backlog seleccionados
+ (Sprint Backlog) durante el Sprint Planning.
+5-
+Cultura de empresa basada en trabajo en equipo, delegación, creatividad y mejora continua.
+Compromiso del cliente en la dirección de los resultados del proyecto, gestión del ROI y disponibilidad para poder colaborar.
+Compromiso de la Dirección de la organización para resolver problemas endémicos y realizar cambios organizativos, formando equipos autogestionados y multidisciplinares y fomentando una cultura de gestión basada en la colaboración y en la facilitación llevada a cabo por líderes al servicio del equipo.
+Compromiso conjunto y colaboración de los miembros del equipo.
+Relación entre proveedor y cliente basada en ganar-ganar, colaboración y transparencia.
+Facilidad para realizar cambios en el proyecto.
+Tamaño de cada equipo entre 5 y 9 personas (con técnicas específicas de planificación y coordinación cuando varios equipos trabajan en el mismo proyecto).
+Equipo trabajando en un mismo espacio común para maximizar la comunicación.
+Dedicación del equipo a tiempo completo.
+Estabilidad de los miembros del equipo
+6-
+Comunicación. 
+Simplicidad. 
+Feedback.
+Coraje.
+Respeto.
+7-
+Planificación flexible y abierta. Desarrollo iterativo e incremental aportando pequeñas mejoras. El equipo de proyecto se considera como el factor principal de éxito del proyecto
